@@ -1,0 +1,29 @@
+*.class
+*.log
+*.hprof
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+# Scala-IDE specific
+
+# Ignore Play! working directory #
+tmp/
+test-result
+server.pid
+.eclipse
+*.iml
+*.eml
+.settings/
+.target/
+.classpath
+.project
+.idea/
+.idea_modules/
+.ensime*
+logs/
+log/
+.DS_Store
+*~
